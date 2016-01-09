@@ -1,0 +1,16 @@
+Shadowsocks
+127.0.0.1:1080
+
+Z-Shadowsocks
+192.168.111.204:1080
+
+Z-Shadowsocks-PAC
+http://192.168.111.122/gfwlist.js
+
+GoAgent
+127.0.0.1:8087
+
+GoAgent PAC
+http://127.0.0.1:8086/proxy.pac
+
+auto switch
