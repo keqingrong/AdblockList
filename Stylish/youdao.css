@@ -1,0 +1,19 @@
+#imgAd {
+    display: none;
+}
+#topImgAd {
+    display: none;
+}
+.dialog-guide-download {
+    display: none;
+}
+.ads {
+    display: none;
+}
+.result_navigator {
+    width: 200px;
+}
+.results-content {
+    width: 600px;
+    margin-left: 220px;
+}
