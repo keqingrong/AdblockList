@@ -1,2 +1,2 @@
-AdblockList
+My Chrome plugin configurations
 ===========
