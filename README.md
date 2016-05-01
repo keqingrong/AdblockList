@@ -1,2 +1,2 @@
-My Chrome plugin configurations
+My dotfiles
 ===========
