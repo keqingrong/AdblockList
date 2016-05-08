@@ -1,0 +1,5 @@
+Host *
+# send a request to server every 2 minutes
+    ServerAliveInterval 120
+# disconnect after no response from server with 5 times 
+    ServerAliveCountMax 5
