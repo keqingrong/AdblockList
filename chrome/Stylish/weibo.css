@@ -1,114 +1,19 @@
-/*
- * @file:   weibo.clear.css
- * @author: banri
- * @update: 20160103
- * @url: https://github.com/banricho/weibo.clear.css
+/* 
+ * @desciption: 微博V6版去广告
+ * @author: keqingrong
+ * @update: 20160511
+ * @url: https://github.com/keqingrong
  */
 
-/* New Year AD Start */
-.WB_ad_tm2015 {
-    display: none;
-}
-
-.WB_miniblog {
-    padding-top: 50px;
-
-    background: none;
-}
-
-.WB_feed_yy2016_up {
-    padding-bottom: 0;
-
-    background-image: none;
-}
-/* New Year AD End */
-
-div[node-type='feed_spread'],
-div[node-type='feed_list_shieldKeyword'],
-div[node-type='recommendTopic'],
-div[feedtype='ad'],
-div[id*='ads'],
-div[id*='Pl_Core_ThirdHtmlData'],
-.PCD_mplayer,
-.gn_nav_list li:nth-child(2),
-.gn_nav_list li:nth-child(3),
-.webim_news,
-.WB_footer,
-.WB_footer,
-.WB_right_expand,
-.WB_frame_bottom,
-.WB_main_r,
+#pl_common_ali,
+#v6_pl_content_setskin,
+#v6_pl_content_biztips,
+#v6_pl_rightmod_rank,
+#v6_pl_rightmod_recominfo,
+#v6_pl_rightmod_ads36,
 #v6_trustPagelet_recom_member,
-#v6_pl_content_biztips {
+#v6_pl_rightmod_noticeboard,
+#v6_pl_ad_bottomtip {
     display: none;
-}
-
-#v6_pl_content_homefeed .fr_box {
-    width: 540px;
-}
-
-.WB_main_c {
-    width: auto;
-}
-
-.WB_tab_a {
-    background: #fff;
-}
-
-.WB_notes {
-    margin: 10px 0;
-    padding: 3px 0;
-}
-
-body,
-body.WB_macT,
-.W_input,
-.WB_app_view .longwb_box,
-.WBA_content span {
-    font-family: 'Source Sans Pro', 'Helvetica Neue', 'Verdana', 'PingFang SC','Hiragino Sans GB', 'SimSun', sans-serif;
-
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-.W_input {
-    font-size: 12px;
-}
-
-.WB_frame_a,
-.WB_frame_a_fix,
-.WB_frame_b,
-.WB_frame_c,
-.WB_frame_d,
-.WB_main_l,
-.WB_main_c,
-.WB_main_r,
-.WB_main_cr,
-.WB_main_a,
-.WB_toptips,
-.WB_sonFeed .WB_info,
-.WB_sonFeed .WB_text,
-.WB_left_nav .lev a {
-    font-size: 14px;
-}
-
-textarea.W_input,
-.WB_detail > .W_f14,
-.WB_app_view .longwb_box,
-.WBA_content span {
-    font-size: 16px !important;
-    line-height: 26px !important;
-}
-
-.WB_feed_spec_cont {
-    line-height: 16px;
-}
-
-body,
-legend,
-.W_input:focus,
-.W_btn_b,
-.S_txt1,
-.SW_fun .S_func1 {
-    color: #555;
+    visibility: hidden;
 }
