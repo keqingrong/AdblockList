@@ -1,15 +1,32 @@
-#imgAd {
-    display: none;
-}
-#topImgAd {
-    display: none;
-}
-.dialog-guide-download {
-    display: none;
-}
+/* 
+ * @desciption: 有道词典去广告
+ * @author: keqingrong
+ * @update: 20160511
+ * @url: https://github.com/keqingrong
+ */
+ 
+/** Youdao Ads **/
+#imgAd,
+#topImgAd,
+#img-banner,
 .ads {
     display: none;
+    visibility: hidden;
 }
+
+/** ISP Ads **/
+#x,
+#google_ads_frame1 {
+    display: none;
+    visibility: hidden;
+}
+
+/** adjustment **/
+.dialog-guide-download {
+    display: none;
+    visibility: hidden;
+}
+
 .result_navigator {
     width: 200px;
 }
