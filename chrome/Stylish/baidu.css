@@ -1,0 +1,56 @@
+/*
+ * @desciption: 百度去广告
+ * @author: keqingrong
+ * @update: 20160517
+ * @url: https://github.com/keqingrong
+ */
+
+/*
+* 首页
+*/
+#s_top_wrap,
+#s_upfunc_menus,
+#u_sp,
+#bottom_container,
+#side_box_fengchao {
+    display: none !important;
+}
+#ec_im_container,
+.ec-figcaption,
+.hint_right_middle {
+    display: none !important;
+}
+
+/*
+* 百科
+*/
+#fc_guess_like,
+#bottom-promotion,
+.lemmaWgt-promotion-slide,
+.lemmaWgt-promotion-rightPreciseAd,
+.lemmaWgt-promotion-rightBigAd {
+    display: none !important;
+}
+
+/*
+* 知道
+*/
+.widget-ads,
+.aside-inner {
+    display: none !important;
+}
+
+/*
+* 网盘
+*/
+.ad-platform-tips {
+    display: none !important;
+}
+
+/*
+* 贴吧
+*/
+iframe,
+.iframe_wrapper {
+    display: none !important;
+}

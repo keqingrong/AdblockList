@@ -1,4 +1,4 @@
-/* 
+/*
  * @desciption: 微博V6版去广告
  * @author: keqingrong
  * @update: 20160511
@@ -14,6 +14,5 @@
 #v6_trustPagelet_recom_member,
 #v6_pl_rightmod_noticeboard,
 #v6_pl_ad_bottomtip {
-    display: none;
-    visibility: hidden;
+    display: none !important;
 }
