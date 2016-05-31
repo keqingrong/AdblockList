@@ -1,7 +1,7 @@
 /*
  * @desciption: 百度去广告
  * @author: keqingrong
- * @update: 20160517
+ * @update: 20160531
  * @url: https://github.com/keqingrong
  */
 
@@ -37,6 +37,13 @@
 */
 .widget-ads,
 .aside-inner {
+    display: none !important;
+}
+
+/*
+* 经验
+*/
+#aside-ads-container {
     display: none !important;
 }
 
