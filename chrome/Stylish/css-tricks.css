@@ -1,0 +1,27 @@
+/*
+ * @desciption: css-tricks去广告
+ * @author: keqingrong
+ * @update: 20160607
+ * @url: https://github.com/keqingrong
+ */
+
+.module-jobs,
+.module-media-temple,
+.google-ad {
+    display: none !important;
+}
+
+.sidebar {
+    display: none !important;
+}
+
+.main-col {
+    width: 100%;
+}
+
+.commentlist>.comment .comment,
+.CommentForm>.comment .comment,
+.comment ul>.comment .comment {
+    width: calc(100% - 40px);
+    background: rgba(0,0,0,0.1);
+}
