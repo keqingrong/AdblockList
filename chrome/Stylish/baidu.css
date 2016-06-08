@@ -36,6 +36,7 @@
 * 知道
 */
 .widget-ads,
+.wgt-ads,
 .aside-inner {
     display: none !important;
 }
