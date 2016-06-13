@@ -1,7 +1,7 @@
 /*
  * @desciption: 百度去广告
  * @author: keqingrong
- * @update: 20160531
+ * @update: 20160613
  * @url: https://github.com/keqingrong
  */
 
@@ -12,9 +12,7 @@
 #s_upfunc_menus,
 #u_sp,
 #bottom_container,
-#side_box_fengchao {
-    display: none !important;
-}
+#side_box_fengchao,
 #ec_im_container,
 .ec-figcaption,
 .hint_right_middle {
@@ -35,6 +33,7 @@
 /*
 * 知道
 */
+.left-top-ads,
 .widget-ads,
 .wgt-ads,
 .aside-inner {
