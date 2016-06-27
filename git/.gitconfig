@@ -4,7 +4,8 @@
 [core]
 	autocrlf = input
 	safecrlf = warn
-	excludesfile = /Users/keqingrong/.gitignore_global
+	excludesfile = ~/.gitignore_global
+	editor = vim
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -13,3 +14,5 @@
 	trustExitCode = true
 [push]
 	default = simple
+[merge]
+	tool = vimdiff
