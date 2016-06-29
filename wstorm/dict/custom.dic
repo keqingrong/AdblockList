@@ -10,3 +10,14 @@ mailto
 weixin
 github
 instagram
+onreadystatechange
+onprogress
+onloadstart
+onload
+ontimeout
+onloadend
+onabort
+onerror
+antialiased
+subpixel
+doctype
