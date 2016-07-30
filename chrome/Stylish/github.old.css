@@ -1,0 +1,14 @@
+/*
+ * @desciption: github旧字体
+ * @author: keqingrong
+ * @update: 20160712
+ * @url: https://github.com/keqingrong
+ */
+
+body, .intgrs-page .main-content, .blog-content, .migration-wrapper, .migrate-owners-wrapper, .setup-wrapper, .showcase-page-title, .tooltipped::after {
+  font-family: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+
+.markdown-body {
+    font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}

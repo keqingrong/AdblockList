@@ -1,0 +1,16 @@
+/*
+ * @desciption: Qzone去广告
+ * @author: keqingrong
+ * @update: 20160613
+ * @url: https://github.com/keqingrong
+ */
+
+.mod-side-nav-recently-used,
+.f-single-biz,
+#QM_Container_31,
+#QM_Container_333,
+#QM_Container_100006,
+#QM_Container_100002,
+#QM_Container_100005 {
+    display:none !important;
+}
