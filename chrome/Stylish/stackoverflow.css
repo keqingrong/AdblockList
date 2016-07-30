@@ -1,0 +1,11 @@
+/*
+ * @desciption: stackoverflow去广告
+ * @author: keqingrong
+ * @update: 20160607
+ * @url: https://github.com/keqingrong
+ */
+
+.dcmads,
+.everyonelovesstackoverflow {
+    display: none !important;
+}
