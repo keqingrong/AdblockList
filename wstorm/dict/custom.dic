@@ -23,9 +23,12 @@ subpixel
 doctype
 editorconfig
 Cache-Control
+Polyfill
 addon
 angularjs
 requirejs
+systemjs
+rxjs
 cordova
 postcss
 autoprefixer
@@ -33,3 +36,4 @@ precss
 cssnano
 cssnext
 flexbox
+transclude
