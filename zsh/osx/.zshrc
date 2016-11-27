@@ -84,7 +84,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias clr="clear"
-alias myip="curl ipip.net"
+alias ip="curl ipip.net"
+alias localip="ipconfig getifaddr en0"
 alias ping="ping -c 4"
 alias tracert="traceroute"
 alias php-fpm.start="launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.php70.plist"
