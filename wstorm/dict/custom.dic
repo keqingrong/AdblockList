@@ -37,3 +37,6 @@ cssnano
 cssnext
 flexbox
 transclude
+devtool
+chunkhash
+contenthash

@@ -1,0 +1,58 @@
+/*
+* @domain
+* infoq.com
+*/
+
+.f_dfp_ad {
+    display: none !important;
+}
+body,
+.text_info {
+    -webkit-font-smoothing: antialiased;
+    /* subpixel-antialiased */
+    
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.text_info,
+.text_info p,
+.text_info p em,
+.text_info em {
+    font-size: 16px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}
+pre,
+code,
+code[class*="language-"],
+pre[class*="language-"] {
+    /* 'Roboto Mono', 'SF Mono', Consolas,  */
+    
+    font-family: Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Consolas, Courier New, monospace;
+    background-color: #eff0f1;
+}
+p code {
+    padding: 1px 5px;
+}
+a {
+    color: #07C;
+    text-decoration: none;
+    cursor: pointer
+}
+a:hover,
+a:active {
+    color: #3af;
+    text-decoration: none;
+}
+.article_page_left a:hover,
+.text_info a:hover,
+.ebook a:hover,
+.presentation_v1 a:hover {
+    text-decoration: none;
+}

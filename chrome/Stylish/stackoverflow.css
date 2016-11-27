@@ -1,11 +1,17 @@
-/*
- * @desciption: stackoverflow去广告
- * @author: keqingrong
- * @update: 20160607
- * @url: https://github.com/keqingrong
- */
-
 .dcmads,
 .everyonelovesstackoverflow {
     display: none !important;
+}
+body {
+    -webkit-font-smoothing: antialiased; /* subpixel-antialiased */
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+pre, code {
+    /* 'Roboto Mono', 'SF Mono', Consolas,  */
+    font-family: Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Consolas, Courier New, monospace;
+}
+
+h1, h2, h3 {
+    -webkit-font-smoothing: subpixel-antialiased;
 }

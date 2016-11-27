@@ -1,0 +1,16 @@
+.ad,
+#fcMovieFrame,
+#dllbFrame,
+#dllbClickL,
+#dllbClose,
+#dlrbFrame,
+#dlrbClickL,
+#dlrbClose,
+.post_adtop_main,
+.gg300 > iframe,
+#gdtldSwfFrame,
+#gdtldJpgFrame,
+#gdtldCFrame,
+#gdtldCFrame + img {
+    display: none !important;
+}

@@ -1,0 +1,11 @@
+/*
+* @domain
+* live.com
+*/
+
+.adBar,
+#adContainer,
+#div_utif_adContainer,
+#utif_adContainer {
+    display: none !important;
+}

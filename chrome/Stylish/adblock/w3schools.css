@@ -1,0 +1,14 @@
+/*
+* w3schools.com
+*/
+
+.bottomad,
+.GoogleActiveViewClass,
+#mainLeaderboard,
+#dclk-studio-creative_1473990918300,
+#div-gpt-ad-1422003450156-2,
+#div-gpt-ad-1422003450156-5,
+#google_image_div,
+#stickyadcontainer {
+    display: none !important;
+}

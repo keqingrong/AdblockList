@@ -1,10 +1,14 @@
 /*
- * @desciption: google去广告
+ * @desciption: stackoverflow去广告
  * @author: keqingrong
  * @update: 20160607
  * @url: https://github.com/keqingrong
+ *
+ * stackoverflow.com
+ * stackexchange.com
  */
 
-.ads-ad {
+.dcmads,
+.everyonelovesstackoverflow {
     display: none !important;
 }

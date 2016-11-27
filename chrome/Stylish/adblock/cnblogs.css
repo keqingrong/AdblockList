@@ -1,0 +1,15 @@
+/*
+ * @desciption: 博客园去广告
+ * @author: keqingrong
+ * @update: 20161127
+ * @url: https://github.com/keqingrong
+ * 
+ * @domain
+ * cnblogs.com
+ */
+
+#KSS_moveBox,
+.KSS_titleBox,
+.KSS_btnBox {
+	display: none !important;
+}

@@ -7,10 +7,16 @@
 
 .mod-side-nav-recently-used,
 .f-single-biz,
+.ad-long-pic,
+.hotbar_wrap,
+#div_corner_ad_container,
+#colorful_day,
+#cheatHintArea,
+#QM_Container_HotLive,
 #QM_Container_31,
 #QM_Container_333,
 #QM_Container_100006,
 #QM_Container_100002,
 #QM_Container_100005 {
-    display:none !important;
+    display: none !important;
 }

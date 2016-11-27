@@ -1,0 +1,25 @@
+/*
+ * @desciption: google去广告
+ * @author: keqingrong
+ * @update: 20160607
+ * @url: https://github.com/keqingrong
+ *
+ * @domain
+ * google.com
+ */
+
+.ads-ad {
+    display: none !important;
+}
+
+body, .g, html, .std, .c h2, h1, #cdr_min, #cdr_max, .cpbb, .kpbb, .kprb, .kpgb, .kpgrb, .ksb {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.a, cite, cite a:link, cite a:visited, .cite, .cite:link, #_bGc > i, .bc a:link {
+  color: #009930;
+}
+
+a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
+  color: #340dab
+}

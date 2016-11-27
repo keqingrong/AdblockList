@@ -1,0 +1,214 @@
+/*
+ * @desciption: 百度去广告
+ * @author: keqingrong
+ * @update: 20161127
+ * @url: https://github.com/keqingrong
+ * 
+ * @domain
+ * baidu.com
+ */
+
+/*
+* 搜索页
+*/
+
+[id="3001"],
+[id="3002"],
+[id="3003"],
+[id="3004"],
+[id="4001"],
+[id="4002"],
+[id="4003"],
+[id="4004"],
+[id="5001"],
+[id="5002"],
+[id="5003"],
+[id="5004"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":1}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":2}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":3}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":4}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":11}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":12}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":13}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":14}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":21}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":22}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":23}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":24}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":31}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":32}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":33}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":34}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":41}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":42}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":43}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":44}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":51}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":52}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":53}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":54}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":61}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":62}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":63}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":64}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":71}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":72}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":73}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":74}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":81}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":82}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":83}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":84}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":91}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":92}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":93}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":94}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":101}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":102}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":103}"],
+[data-click="{\"rsv_bdr\":\"0\",\"p5\":104}"],
+.hint_common_restop,
+.ec_tuiguang_ppimlink {
+    display: none !important;
+    margin: 0;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+}
+/*
+* 首页
+*/
+
+#s_top_wrap,
+#s_upfunc_menus,
+#u_sp,
+#bottom_container,
+#side_box_fengchao {
+    display: none !important;
+}
+#ec_im_container,
+.ec-figcaption,
+.hint_right_middle {
+    display: none !important;
+}
+/*
+.soutu-env-newindex {
+    margin-top: 52px;
+}
+*/
+/*
+* 图片
+*/
+
+.text-link-ads,
+.ad-card,
+#wmContainer,
+#beforeAdCard,
+#adCard {
+    display: none !important;
+}
+/*
+* 百科
+*/
+
+#fc_guess_like,
+#bottom-promotion,
+#unionAd_fromPs,
+#side_box_unionAd,
+#side-share,
+.unionAd_fromPs,
+.unionAd,
+.lemmaWgt-promotion-slide,
+.lemmaWgt-promotion-rightPreciseAd,
+.lemmaWgt-promotion-rightBigAd {
+    display: none !important;
+}
+/*
+* 知道
+*/
+
+.EC_result,
+.left-top-ads,
+.wgt-ads,
+.widget-ads,
+.aside-inner {
+    display: none !important;
+}
+/*
+* 经验
+*/
+
+#aside-ads-container {
+    display: none !important;
+}
+/*
+* 网盘
+*/
+
+.union-hot,
+.app-center,
+.yun-header .find-light .find-light-icon,
+.ad-platform-tips {
+    display: none !important;
+}
+/*
+* 贴吧
+*/
+/*
+l_post.l_post_bright.j_l_post.clearfix
+*/
+
+#pb_adbanner,
+.iframe_wrapper,
+.tpoint-skin,
+.f5481ba14b,
+.m339902337,
+.e8905e7d85,
+.z9b7c6e3ac,
+.i9b7c6e3ac,
+.sfd4e72d67,
+.tcee35bcca,
+.f5481ba14b,
+.e8905e7d85,
+.sfd4e72d67,
+.tcee35bcca {
+    display: none !important;
+}
+/*
+* 文库
+*/
+
+#BAIDU_AD_920314 {
+    display: none !important;
+}
+/*
+* 新闻
+*/
+
+#ecomAdDiv_1,
+#ecomAdDiv_2,
+#ecomAdDiv_3 {
+    display: none !important;
+}
+/*
+* 地图
+* [data-stat-code="poisearch.damoce.item"]
+*/
+
+.damoce-fengchao {
+    display: none !important;
+}
+/*
+* 音乐
+*/
+
+.column2 {
+    right: 266px;
+}
+.column3 {
+    right: 0;
+}
+.column4 {
+    width: 0;
+}

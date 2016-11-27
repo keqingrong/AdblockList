@@ -1,0 +1,8 @@
+.info-product,
+.info-hotwords {
+    display: none !important;
+}
+
+body, input, select, textarea {
+    -webkit-font-smoothing: subpixel-antialiased;
+}

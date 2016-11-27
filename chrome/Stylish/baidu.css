@@ -1,63 +1,16 @@
 /*
- * @desciption: 百度去广告
+ * @desciption: 字体优化
  * @author: keqingrong
- * @update: 20160613
+ * @update: 20161127
  * @url: https://github.com/keqingrong
+ * 
+ * @domain
+ * baidu.com
  */
 
-/*
-* 首页
-*/
-#s_top_wrap,
-#s_upfunc_menus,
-#u_sp,
-#bottom_container,
-#side_box_fengchao,
-#ec_im_container,
-.ec-figcaption,
-.hint_right_middle {
-    display: none !important;
-}
-
-/*
-* 百科
-*/
-#fc_guess_like,
-#bottom-promotion,
-.lemmaWgt-promotion-slide,
-.lemmaWgt-promotion-rightPreciseAd,
-.lemmaWgt-promotion-rightBigAd {
-    display: none !important;
-}
-
-/*
-* 知道
-*/
-.left-top-ads,
-.widget-ads,
-.wgt-ads,
-.aside-inner {
-    display: none !important;
-}
-
-/*
-* 经验
-*/
-#aside-ads-container {
-    display: none !important;
-}
-
-/*
-* 网盘
-*/
-.ad-platform-tips {
-    display: none !important;
-}
-
-/*
-* 贴吧
-*/
-iframe,
-.iframe_wrapper {
-    display: none !important;
+code,
+kbd,
+pre,
+samp {
+    font-family: Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Consolas, Courier New, monospace;
 }

@@ -1,0 +1,5 @@
+.left > a,
+.module > img,
+.ad-blank {
+    display: none !important;
+}

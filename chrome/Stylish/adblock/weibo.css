@@ -17,3 +17,8 @@
 [feedtype="ad"] {
     display: none !important;
 }
+
+.WB_miniblog,
+.S_page {
+    background: #eee;
+}

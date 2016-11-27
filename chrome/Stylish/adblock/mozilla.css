@@ -1,0 +1,29 @@
+/*
+* @domain
+* developer.mozilla.org
+*/
+
+.global-notice {
+    display: none !important;
+}
+
+body,
+html[data-ffo-opensans=false]:not(.no-js) body {
+    font-family: Roboto, sans-serif;
+}
+
+/*
+ * 原来的font-family
+ * font-family: Consolas,"Liberation Mono",Courier,monospace; 
+ */
+code {
+    font-family: "Roboto Mono", "Source Code Pro", monospace; 
+}
+
+/*
+* 原来的font-family
+* font-family: Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace;
+*/
+code[class*=language-], pre[class*=language-] {
+    font-family: "Roboto Mono", "Source Code Pro", monospace; 
+}
