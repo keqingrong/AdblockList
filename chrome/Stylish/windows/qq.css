@@ -1,0 +1,11 @@
+/*
+* mail.qq.com
+*/
+
+td,
+input,
+button,
+select,
+body {
+    font-family: 'Helvetica Neue', Roboto, 'Noto Sans', 'Segoe UI', Helvetica, Arial, 'Noto Sans CJK SC', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}

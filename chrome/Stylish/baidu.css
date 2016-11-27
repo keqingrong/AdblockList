@@ -8,9 +8,44 @@
  * baidu.com
  */
 
+button,
+input,
+select,
+textarea,
+th,
+td,
+.p1,
+.p2,
+.yun-header,
+.headTab,
+.side-catalog,
+.wgt-userbar,
+.wgt-searchbar-new.wgt-searchbar,
+.wgt-searchbar-new.wgt-searchbar .search .form button,
+.wgt-searchbar-new.wgt-searchbar .search .form input,
+.wiki-lemma .lemmaWgt-lemmaTitle,
+.wiki-lemma .tabCards .pageTabs a,
+.wiki-lemma .large-feature .feature-poster,
+.wiki-lemma .large-feature .after-feature-poster,
+.lemmaWgt-lemmaCatalog .lemma-catalog,
+.content-wrapper .content,
+.module-list .list-view {
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Roboto, 'Noto Sans', 'Segoe UI', Helvetica, Arial, 'Noto Sans CJK SC', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+a {
+    color: #2196F3;
+}
+em {
+    color: #F44336;
+}
+.c-showurl {
+    color: #4CAF50;
+}
+
 code,
 kbd,
 pre,
 samp {
-    font-family: Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Consolas, Courier New, monospace;
+    font-family: -apple-system, BlinkMacSystemFont, Menlo, DejaVu Sans Mono, Bitstream Vera Sans Mono, Consolas, Courier New, monospace;
 }

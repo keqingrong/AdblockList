@@ -1,0 +1,25 @@
+/*
+* stackoverflow.com
+* weixin.qq.com
+* qzone.qq.com
+* douban.com
+* inbox.google.com
+* zhihu.com
+*/
+
+body,
+input,
+textarea,
+select,
+button,
+label,
+td,
+th,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Helvetica Neue', Roboto, 'Noto Sans', 'Segoe UI', Helvetica, Arial, 'Noto Sans CJK SC', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}

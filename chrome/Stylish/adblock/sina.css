@@ -1,12 +1,18 @@
 /*
 * blog.sina.com.cn
 */
-
 #topAdvertise,
 #sinaadToolkitBox0,
 #sinaadToolkitBox1,
 #sinaadToolkitBox2,
 #sinaadToolkitBox3,
 .sinaads {
+    display: none !important;
+}
+
+/*
+* news.sina.com.cn
+*/
+iframe {
     display: none !important;
 }

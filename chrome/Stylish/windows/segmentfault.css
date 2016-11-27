@@ -1,0 +1,14 @@
+/*
+* segmentfault.com
+*/
+
+body {
+    font-family: 'Helvetica Neue',Roboto, 'Noto Sans', 'Segoe UI', Helvetica,Arial,'Noto Sans CJK SC',sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: "Source Code Pro", Menlo, "Dejavu Sans Mono", "Roboto Mono", Inconsolata, Consolas, Monaco,"Courier New", monospace;
+}
