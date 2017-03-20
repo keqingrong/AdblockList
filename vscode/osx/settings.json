@@ -1,0 +1,6 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "editor.renderWhitespace": "boundary",
+    "window.menuBarVisibility": "default",
+    "window.openFilesInNewWindow": "off"
+}
