@@ -4,5 +4,7 @@
 *.log
 *.map
 Thumbs.db
-Pods
-.idea
+Pods/
+.idea/
+.vscode/
+node_modules/

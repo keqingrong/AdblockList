@@ -99,6 +99,9 @@ alias urlencode='python -c "import sys, urllib as ul; \
 alias webpack="webpack --progress --colors"
 alias webpack-dev-server="webpack-dev-server --progress --colors"
 alias node="node --harmony"
+alias ruby-http="ruby -run -e httpd . -p 9090"
+alias python-http="python -m SimpleHTTPServer 8000"
+alias php-http="php -S 127.0.0.1:3000 "
 
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"  # for Homebrew
 
