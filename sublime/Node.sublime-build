@@ -1,4 +1,0 @@
-{
-	"cmd": ["~/.nvm/versions/node/v5.10.1/bin/node", "$file"],
-	"selector": "source.js"
-}
