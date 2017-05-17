@@ -1,6 +1,14 @@
-// 将设置放入此文件中以覆盖默认设置
+// Place your settings in this file to overwrite the default settings
 {
+    "editor.fontFamily": "Menlo, 'Dejavu Sans Mono', 'Roboto Mono', Inconsolata, Consolas, Monaco,'Courier New', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', '思源黑体', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "editor.glyphMargin": true,
+    "editor.minimap.enabled": true,
     "editor.renderWhitespace": "boundary",
-    "window.menuBarVisibility": "default",
-    "window.openFilesInNewWindow": "off"
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.projectDetection.autoReload": true,
+    "window.openFilesInNewWindow": "off",
+    "window.openFoldersInNewWindow": "on",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Default Light+",
+    "typescript.check.npmIsInstalled": false
 }

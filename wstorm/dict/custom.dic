@@ -40,3 +40,5 @@ transclude
 devtool
 chunkhash
 contenthash
+webgl
+bitmaprenderer
