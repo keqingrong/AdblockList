@@ -3,12 +3,16 @@
 	safecrlf = warn
 	excludesfile = ~/.gitignore_global
 	editor = vim
+	ignorecase = false
 [branch]
 	autosetuprebase = always
 [merge]
 	tool = vimdiff
 [push]
 	default = simple
+[rerere]
+	enabled = 1
+	autoupdate = 1
 [user]
 	name = keqingrong
 	email = keqingrong1992@gmail.com
