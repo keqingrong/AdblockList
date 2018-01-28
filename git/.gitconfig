@@ -4,10 +4,13 @@
 	excludesfile = ~/.gitignore_global
 	editor = vim
 	ignorecase = false
+	quotepath = false
 [branch]
 	autosetuprebase = always
 [merge]
 	tool = vimdiff
+[pull]
+	rebase = true
 [push]
 	default = simple
 [rerere]
