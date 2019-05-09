@@ -1,15 +1,22 @@
+// Place your settings in this file to overwrite the default settings
 {
-  "editor.fontFamily": "Menlo, 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', '思源黑体', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+  "editor.fontFamily": "'SF Mono', Menlo, 'Source Han Sans SC', 'Source Han Sans CN', '思源黑体', 'Hiragino Sans GB', 'Microsoft YaHei', monospace, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
   "editor.glyphMargin": true,
-  "editor.minimap.enabled": true,
-  "editor.renderWhitespace": "boundary",
+  "editor.renderWhitespace": "none", // boundary
+  "editor.rulers": [80],
   "editor.wordWrap": "on",
-  "workbench.iconTheme": "vscode-icons",
-  "vsicons.projectDetection.autoReload": true,
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "telemetry.enableTelemetry": false,
   "window.openFilesInNewWindow": "off",
   "window.openFoldersInNewWindow": "on",
   "window.zoomLevel": 0,
-  "typescript.check.npmIsInstalled": false,
   "workbench.activityBar.visible": true,
-  "vsicons.dontShowNewVersionMessage": true
+  "workbench.colorTheme": "Default Light+",
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

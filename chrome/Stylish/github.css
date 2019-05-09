@@ -1,0 +1,14 @@
+.markdown-body pre {
+	tab-size: 4;
+}
+
+.highlight-source-js-jsx pre,
+.highlight-source-js pre,
+.highlight-source-css pre {
+	tab-size: 2;
+}
+
+.highlight-source-shell pre,
+.highlight-source-java pre {
+	tab-size: 4;
+}

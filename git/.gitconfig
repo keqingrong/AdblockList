@@ -19,3 +19,10 @@
 [user]
 	name = Qingrong Ke
 	email = keqingrong1992@gmail.com
+[credential]
+	helper = store
+[i18n]
+	commitencoding = utf-8
+	logoutputencoding = utf-8
+[gui]
+	encoding = utf-8
