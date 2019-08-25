@@ -5,5 +5,9 @@
     "terminal.integrated.shell.windows": "D:\\Git\\bin\\bash.exe",
     "window.menuBarVisibility": "default",
     "window.openFilesInNewWindow": "off",
-    "workbench.iconTheme": "vs-seti"
+    "window.openFoldersInNewWindow": "on",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "Default Light+",
+    "files.eol": "\n",
+    "files.encoding": "utf8",
 }

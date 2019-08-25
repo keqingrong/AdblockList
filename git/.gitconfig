@@ -14,8 +14,7 @@
 [push]
 	default = simple
 [rerere]
-	enabled = 1
-	autoupdate = 1
+	enabled = true
 [user]
 	name = Qingrong Ke
 	email = keqingrong1992@gmail.com
