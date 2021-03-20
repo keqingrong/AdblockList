@@ -2,10 +2,10 @@
 types {
     text/html                                        html htm shtml;
     text/css                                         css;
-    text/xml                                         xml;
     image/gif                                        gif;
     image/jpeg                                       jpeg jpg;
     application/javascript                           js;
+    application/xml                                  xml;
     application/atom+xml                             atom;
     application/rss+xml                              rss;
 
@@ -75,6 +75,8 @@ types {
     application/xhtml+xml                            xhtml;
     application/xspf+xml                             xspf;
     application/zip                                  zip;
+    application/gzip                                 gz;
+    application/x-tar                                tar;
 
     application/octet-stream                         bin exe dll;
     application/octet-stream                         deb;
