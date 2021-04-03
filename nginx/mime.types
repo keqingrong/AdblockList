@@ -14,10 +14,13 @@ types {
     text/markdown                                    md;
     text/mathml                                      mml;
     text/plain                                       txt srt ass lrc;
+    text/rtf                                         rtf;
+    text/tab-separated-values                        tsv;
     text/vnd.sun.j2me.app-descriptor                 jad;
     text/vnd.wap.wml                                 wml;
     text/vtt                                         vtt;
     text/x-component                                 htc;
+    text/yaml                                        yml yaml;
 
     image/png                                        png;
     image/svg+xml                                    svg svgz;
@@ -37,7 +40,7 @@ types {
 
     application/epub+zip                             epub;
     application/gltf-buffer                          glbin glbuf;
-    application/gzip                                 gz;
+    application/gzip                                 gz tgz;
     application/java-archive                         jar war ear;
     application/json                                 json;
     application/mac-binhex40                         hqx;
@@ -47,6 +50,7 @@ types {
     application/postscript                           ps eps ai;
     application/rtf                                  rtf;
     application/signed-exchange                      sxg;
+    application/toml                                 toml;
     application/vnd.apple.mpegurl                    m3u8;
     application/vnd.amazon.ebook                     azw;
     application/vnd.google-earth.kml+xml             kml;
