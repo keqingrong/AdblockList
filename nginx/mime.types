@@ -21,6 +21,8 @@ types {
     text/x-component                                 htc;
     text/yaml                                        yml yaml;
 
+    image/avif                                       avif;
+    image/jxl                                        jxl;
     image/png                                        png;
     image/svg+xml                                    svg svgz;
     image/tiff                                       tif tiff;
